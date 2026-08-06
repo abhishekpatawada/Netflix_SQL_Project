@@ -121,7 +121,7 @@ GROUP BY genre;
 ```
 
 ### 9.Find each year and the average numbers of content release in India on netflix. 
-return top 5 year with highest avg content release!
+### return top 5 year with highest avg content release!
 
 ```sql
 SELECT 
